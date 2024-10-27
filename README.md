@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rushikesh1432
-- Doing btech in AIML from Kmit, HYD
+- 🏫 Doing btech in AIML from Kmit,📍HYD
 - 👀 I’m interested in CS
-- 🌱 I’m currently learning CS50x by Harvard University
+- 🌱 I’m currently learning CS50x(online) by Harvard University
 - 📫 How to reach me - Dm me on insta
 - 😄 Pronouns: Rushi
 
