@@ -3,7 +3,7 @@
 - 👀 I’m interested in CS
 - 🌱 I’m currently learning CS50x(online) by Harvard University
 - 📫 How to reach me - Dm me on insta
-- 😄 Pronouns: Rushi
+- 😄 Pronouns: He/Him
 
 
 <!---
